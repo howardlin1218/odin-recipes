@@ -1,0 +1,31 @@
+* {
+    background-color: rgb(160, 236, 233);
+}
+
+
+h1, h2, p {
+    color: rgb(158, 66, 66);
+}
+
+a {
+    color: rgb(236, 49, 236);
+}
+
+li {
+    color: rgb(236, 49, 236);
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+#recipe-list li {
+    color:rgb(77, 10, 10);
+}
+
+a#return {
+    color :rgb(150, 119, 72);
+}
+
+
